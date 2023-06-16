@@ -1,0 +1,10 @@
+Student id : 1  average number: 75
+Student id : 2  average number: 75
+Student id : 3  average number: 75
+Student id : 4  average number: 75
+Student id : 5  average number: 75
+Student id : 6  average number: 75
+Student id : 7  average number: 75
+Student id : 8  average number: 75
+Student id : 9  average number: 75
+Student id : 10  average number: 75
